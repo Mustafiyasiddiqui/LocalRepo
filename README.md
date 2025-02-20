@@ -1,1 +1,1 @@
-# this is only for trails
+# these are only for trails
